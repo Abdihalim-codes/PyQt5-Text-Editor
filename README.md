@@ -31,7 +31,7 @@ A simple yet powerful text editor built with PyQt5 that provides essential editi
 To install and run the text editor, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Abdihalim-code/PyQt5-Text-Editor.git
+   git clone https://github.com/Abdihalim-codes/PyQt5-Text-Editor.git
 
 2. Navigate to the project directory:
    ```bash
